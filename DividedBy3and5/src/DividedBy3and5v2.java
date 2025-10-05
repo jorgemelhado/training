@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class DividedBy3and5v2 {
 
     // Usando arrays dinamicos - ArrayList
-
+    // Ao inves de usar arrays primitivos
 
     public static void main(String[] args) {
         int i = 0, j = 0, k = 0, l = 0;
